@@ -1,0 +1,104 @@
+#menuT{
+	background:#F8F1D0;
+	font-family: sans-serif;
+	position: absolute;
+	margin: 0 auto;
+	top: 200px;
+	width: 700px;
+	float: none;
+	padding: 0px,300px,0px,300px;
+
+}
+#menuC{
+	width: 300px;
+	background: #F8F1D0;
+	left: 480px;
+}
+
+
+#boton{
+
+	width: 110px;
+    text-decoration: none;
+    cursor: pointer;
+    font: 900 14px/22px "Arial", Helvetica, sans-serif;
+    padding: 3px 18px 3px 18px;
+    margin-top: 15px;
+    margin-left: 55px;
+    background-color: #81D939;
+    color: #0d5f83;
+    border-radius: 30px;
+    top: 370px;
+}
+
+#division{
+	background: #F8F1D0;
+	width: 800px;
+	margin: 0 auto;
+	height: 864px;
+	font: 900 14px/22px "Arial", Helvetica, sans-serif;
+	padding-top: 20px;
+
+}
+
+#division img {
+	float: left;
+	padding-top: 80px;
+	padding-left: 290px;
+	padding-bottom: 10px;
+	background: #F8F1D0;
+}
+
+#division .forLog{
+	
+	width: 300px;
+	height: 200px;
+	float: left;
+	margin-left: 290px;
+}
+#division .label{
+	padding-right: 23px;
+}
+#division .titulo{
+	padding-top: 40px;
+}
+#division ul{
+	 list-style-type: none; 
+	 margin: 145px;
+	 margin-top: 100px;
+	 width: 400px;
+	 font-family: Arial, sans-serif;
+     font-size: 14pt;
+} 
+#division ul li{
+	 
+	  padding: 10px;
+	  margin-left: 25px;	
+} 
+#division ul li a{
+	color: #ccc;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 3px,18px,3px,18px;
+    display: block;
+    background-color: green;
+     border-radius: 30px;
+}
+#division ul li a:hover {
+    background: #000;
+    border-left: 10px solid #333;
+    color: #fff;
+}
+#division .perfil{
+	margin-left: 308px;
+	margin-bottom:100px;
+	
+}
+#division .lbl{
+	margin-left:85px;
+	
+}
+#division .lbl1{
+	margin-left:30px;
+	
+}
